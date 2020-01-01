@@ -1,3 +1,6 @@
+#BambooFox CTF 31.12.2019-01.01.2020
+#How2Decompyle
+
 import string
 restrictions = [
  'uudcjkllpuqngqwbujnbhobowpx_kdkp_',
