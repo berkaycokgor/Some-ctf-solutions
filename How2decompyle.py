@@ -1,5 +1,6 @@
 #BambooFox CTF 31.12.2019-01.01.2020
 #How2Decompyle
+#https://ctftime.org/task/10216
 
 import string
 restrictions = [
