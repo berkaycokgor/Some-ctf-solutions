@@ -1,3 +1,4 @@
+# TAMUCTF 2020 WEB-MENTALMATH
 import requests
 
 brute_list = "{_}0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
